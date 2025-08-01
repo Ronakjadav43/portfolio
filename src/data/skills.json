@@ -1,0 +1,27 @@
+[
+  { "name": "Mysql, MSsql", "year": 3 },
+  { "name": "MongoDB", "year": 2 },
+  { "name": "Postgres", "year": 2 },
+
+ 
+
+
+  { "name": "React Js", "year": 2 },
+  { "name": "Next Js", "year": 2 },
+ { "name": "Javascript", "year": 3 },
+   { "name": "Typescript", "year": 2 },
+  { "name": "Material UI", "year": 4 },
+  { "name": "A&T UI", "year": 4 },
+  { "name": "Bootstrap UI", "year": 4 },
+  { "name": "HTML", "year": 5 },
+  { "name": "CSS", "year": 5 },
+  { "name": "SCSS", "year": 5 },
+  { "name": "Tailwind CSS", "year": 3 },
+ 
+  { "name": "Stripe", "year": 2 },
+   { "name": "NodeJS", "year": 1 },
+  
+   { "name": "Git", "year": 3 },
+  { "name": "API Integration", "year": 2 },
+    { "name": "Jira", "year": 3 },
+  { "name": "Bitbucket", "year": 3 }]

@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "title": "CREAT: Restaurant Reservation",
+    "logo": "/img/creat/customer/CE_Logo.png",
+    "description": "Our restaurant reservation app offers a seamless and user-friendly experience, allowing diners to easily book tables for breakfast, lunch, or dinner. With a few taps, users can discover and reserve their favorite restaurants, making dining out a breeze.",
+    "companyName": "Freelance",
+    "companySite": "https://creat.sg/",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Lead Full-stack Developer",
+    "data": [
+      {
+        "heading": "Customer Side",
+        "bullets": [
+          "Intuitive Booking Process: Users can easily select their preferred date, time, and party size for their reservation.",
+          "Meal-Specific Options: The app caters to different dining experiences by offering separate booking options for breakfast, lunch, and dinner.",
+          "Real-Time Availability: Users can view up-to-date table availability, ensuring they can make informed decisions about their reservations.",
+          "Special Requests: A feature allowing users to note any special requirements or preferences when making a reservation.",
+          "Confirmation System: Automatic confirmation emails or SMS messages are sent to users upon successful booking."
+        ]
+      },
+      {
+        "heading": "Admin Side",
+        "bullets": [
+          "Reservation Dashboard: A comprehensive view of all current and upcoming reservations, sortable by date, time, and party size.",
+          "Table Management: Ability to assign and reassign tables based on party size and restaurant layout.",
+          "Customer Database: A database storing customer information, reservation history, and preferences for personalized service.",
+          "Customizable Settings: Options to set restaurant capacity, opening hours, and special event dates.",
+          "Reporting Tools: Analytics and reporting tools to track reservation trends, peak hours, and revenue generated.",
+          "Staff Management: Assign roles and permissions to different staff members for using the admin interface."
+        ]
+      }
+    ],
+    "technologies": [
+      "Javascript",
+      "Typescript",
+      "React Js",
+      "Redux",
+      "Material UI",
+      "Node Js",
+      "Express Js",
+      "Restful APIs",
+      "Postgress",
+      "Gitlab CI/CD"
+    ],
+    "images": [
+      {
+        "src": "/img/creat/admin/CA1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA3.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA4.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA5.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA6.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA7.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA8.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA9.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/admin/CA10.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/customer/CC1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/customer/CC2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/creat/customer/CCP3.png",
+        "alt": "Description of image 3"
+      }
+    ],
+    "link": "https://creat.sg/"
+  },
+
+  {
+    "id": 2,
+    "title": "ASME : Grow Your Bussiness Advertise With Asme",
+    "logo": "/img/asme/logo.png",
+    "description": "The Association of Small & Medium Enterprises (ASME) is a non-profit organization in Singapore that supports the growth and development of SMEs. It provides resources, networking opportunities, training, and advocacy to help businesses thrive in the competitive market. ASME aims to promote entrepreneurship and strengthen the SME community through various initiatives and programs.",
+    "companyName": "Freelance",
+    "companySite": "https://www.asme.org.sg/",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Senior Full-stack Developer",
+    "data": [
+      {
+        "heading": "Business Support",
+        "bullets": [
+          "Provides resources and support for SMEs.",
+          "Offers business advisory and consultancy services."
+        ]
+      },
+      {
+        "heading": "Networking Opportunities",
+        "bullets": [
+          "Hosts events for business networking and partnerships.",
+          "Connects SMEs with industry leaders and professionals."
+        ]
+      },
+      {
+        "heading": "Training and Development",
+        "bullets": [
+          "Conducts workshops and seminars for skills development.",
+          "Offers leadership and management training programs."
+        ]
+      },
+      {
+        "heading": "Advocacy and Representation",
+        "bullets": [
+          "Represents the interests of SMEs in policy discussions.",
+          "Works with the government to create a conducive business environment."
+        ]
+      }
+    ],
+    "technologies": [
+      "Javascript",
+      "Typescript",
+      "React Js",
+      "Next Js",
+      "Postgress",
+      "Node Js",
+      "Express Js",
+      "Material UI",
+      "Stripe CRM"
+    ],
+    "images": [
+      {
+        "src": "/img/asme/img0.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img3.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img4.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img5.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/asme/img6.png",
+        "alt": "Description of image 3"
+      }
+    ],
+    "link": "https://www.asme.org.sg/"
+  },
+
+
+  {
+    "id": 3,
+    "title": "Lucky Minute : The One Minute Gaming App",
+    "logo": "/img/lucky-minute/Logo.svg",
+    "description": "Join Lucky Minute, the exhilarating online gaming platform where you can dive into thrilling rounds of Baccarat, Roulette, and Sic Bo! After a quick verification, you'll be randomly placed in groups to enjoy fast-paced, one-minute gameplay. Discover if you’ve won or lost in just a minute!",
+    "companyName": "Freelance",
+    "companySite": "https://lucky-minute.com/",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Senior Front-end Developer",
+    "data": [
+      {
+        "heading": "Frontend",
+        "bullets": [
+          "One-Minute Rounds: Experience the thrill with fast gameplay.",
+          "Instant Results: See if you’ve won or lost right after each round",
+          "Random Group Play: Join different players for a fresh experience each time.",
+          "Simple Verification: Quick and easy process to get started.",
+          "User-Friendly Design: Navigate seamlessly on any device.",
+          "Secure Gaming: Enjoy a safe and protected environment.",
+          "Real-Time Player Interaction: Engage with others while you play.",
+          "Mobile Friendly: Play anytime, anywhere on your mobile device.",
+          "Exciting Rewards: Win bonuses based on your performance.",
+          "Engaging Experience: Feel the rush of every game with every round!"
+        ]
+      }
+    ],
+    "technologies": [
+      "Javascript",
+      "Typescript",
+      "React Js",
+      "Redux",
+      "A&T Design"
+    ],
+    "images": [
+      {
+        "src": "/img/lucky-minute/img0.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img10.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img11.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img12.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img8.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img9.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img7.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img3.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img4.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img5.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/lucky-minute/img6.png",
+        "alt": "Description of image 3"
+      }
+    ],
+    "link": "https://lucky-minute.com/"
+  },
+
+
+  {
+    "id": 4,
+    "title": "NEEMIYA : Effective Lead Generation Platform",
+    "logo": "/img/neemiya/logo.png",
+    "description": "Neemiya is a platform that helps businesses create and manage landing pages to capture leads effectively. It provides tools like drag-and-drop builders, analytics, and CRM integrations, making it easier to optimize marketing campaigns and track performance. The platform is suitable for agencies and businesses aiming to enhance their lead generation and streamline client management.",
+    "companyName": "Freelance",
+    "companySite": "https://neemiya.com/",
+    "workLogo": "/img/capauth/freelance.png",
+    "role": "Senior Front-end Developer",
+    "data": [
+      {
+        "heading": "Landing Page Builder",
+        "bullets": [
+          "Create high-converting landing pages with a drag-and-drop interface.",
+          "Customize templates to fit your brand and campaign needs."
+        ]
+      },
+      {
+        "heading": "Lead Management",
+        "bullets": [
+          "Track and manage leads in one place.",
+          "Integrates with CRM systems like Salesforce, Pipedrive, and Hubspot."
+        ]
+      },
+      {
+        "heading": "A/B Testing",
+        "bullets": [
+          "Run A/B tests to identify the best-performing page variants.",
+          "Optimize campaigns based on performance data."
+        ]
+      },
+      {
+        "heading": "Analytics and Tracking",
+        "bullets": [
+          "Monitor page performance with in-depth analytics.",
+          "Gain insights into visitor behavior and conversion rates."
+        ]
+      },
+      {
+        "heading": "Agency Features",
+        "bullets": [
+          "Manage multiple client projects from a single dashboard.",
+          "Provide detailed performance reports for clients."
+        ]
+      }
+    ],
+    "technologies": [
+      "Javascript",
+      "Typescript",
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "Postgress",
+      "Strapi",
+      "Swagger",
+      "Material UI"
+    ],
+    "images": [
+      {
+        "src": "/img/neemiya/img1.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/neemiya/img2.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/neemiya/img3.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/neemiya/img4.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/neemiya/img5.png",
+        "alt": "Description of image 3"
+      },
+      {
+        "src": "/img/neemiya/img6.png",
+        "alt": "Description of image 3"
+      }
+    ],
+    "link": "https://neemiya.com/"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "designation": "Senior Software Developer",
+    "name": "CodEnvision Softwares Private Limited",
+    "url": "#",
+    "date": "May 2022 - May 2025",
+    "skills": [
+      "Javascript",
+      "Typescript",
+      "Node.Js",
+      "Strapi",
+      "React.js",
+      "Next.Js",
+      "Redux",
+      "Material UI",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Jwt",
+      "Simple Notification Service",
+      "Mongodb",
+      "Mysql",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "SCSS",
+      "Figma Design Implement"
+    ],
+    "work": [
+      "As a skilled Front-End Developer with over 4 years of experience, I specialize in creating high-performance web and mobile applications using modern frameworks and technologies.",
+      "Developed and maintained responsive UI components using React.js, Next.js, and TypeScript.",
+      "Built scalable and maintainable front-end architectures from scratch for various SaaS and client platforms.",
+      "Integrated RESTful APIs and CMS platforms like Strapi to power dynamic, data-driven web apps.",
+      "Collaborated closely with designers using Figma to ensure pixel-perfect UI implementation.",
+      "Ensured cross-browser compatibility and performance optimization through clean, semantic HTML/CSS and Tailwind CSS, Bootstrap, and SCSS.",
+      "Implemented reusable component libraries using Material UI to streamline development and maintain design consistency.",
+      "Improved page load speed and Core Web Vitals through code splitting, lazy loading, and performance best practices.",
+      "Worked in Agile teams using Git/GitHub for version control and daily standups for progress tracking.",
+      "Wrote unit and integration tests for UI components using testing frameworks to ensure stability and scalability.",
+      "Contributed to UI/UX decisions, suggesting design improvements and maintaining usability standards across devices."
+    ],
+    "project": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "La Net Team Software Solutions Pvt. LTD. ",
+    "url": "",
+    "designation": "Senior software Developer",
+    "date": "March 2020 - April 2022",
+    "skills": [
+      "Javascript",
+      "Typescript",
+      "Node.Js",
+      "React.js",
+      "Next.Js",
+      "Redux",
+      "Mongodb",
+      "Mysql"
+    ],
+    "work": [
+      "Led full project lifecycle from requirement analysis to deployment and maintenance, delivering robust web applications across multiple domains.",
+      "Engineered full-stack solutions with React, Next.js, Node.js, Python, C#, and JavaScript, integrating APIs like Stripe, Firebase, and Mitto (SMS/IVRS).",
+      "Built dynamic and reusable frontend components in React and Next.js, implemented client-side validations, and wrote unit/UI test cases using modern testing frameworks.",
+      "Created custom UI tools such as dynamic table builders, enhanced user experiences, and followed responsive design best practices for cross-device compatibility."
+    ],
+    "project": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "designation": "Senior Web Designer",
+    "name": "Medionce Solutions Private Limited",
+    "url": "",
+    "date": "February 2019 - February 2020",
+    "skills": [
+      "UI/UX Design",
+    "Responsive Web Design",
+    "Adobe XD",
+    "Figma",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "SCSS/SASS",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Cross-Browser Compatibility",
+    "Design Systems",
+    "User-Centered Design",
+    "Interaction Design",
+    "Branding and Visual Identity",
+    "Typography"
+    ],
+    "work": [
+       "Designed and developed visually engaging and user-friendly websites aligned with client objectives and brand identity.",
+    "Handled both technical and graphical aspects of web development, ensuring responsive and accessible designs.",
+    "Collaborated with stakeholders to define target audience and website content strategy.",
+    "Wrote clean, maintainable HTML, CSS, and JavaScript code from scratch or by customizing existing templates and packages.",
+    "Conducted thorough website testing to identify and resolve bugs, usability issues, and cross-browser inconsistencies.",
+    "Maintained and updated existing websites to improve functionality and performance.",
+    "Deployed websites to live environments and handled domain registration and server setup.",
+    "Registered and optimized websites for search engines to improve visibility (SEO).",
+    "Ensured continuous improvement of UI/UX based on feedback and user analytics.",
+    "Worked closely with developers, graphic designers, and SEO teams to deliver high-quality web solutions."
+    ],
+    "project": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]
