@@ -83,7 +83,7 @@ function About() {
                   height={128}
                   className="w-full h-full object-cover"
                 /> */}
-                  <img src="/img/profile.jpg" alt="Profile" width={200} height={200} />
+                  <img src="/portfolio/img/profile.jpg" alt="Profile" width={200} height={200} />
                 </div>
                 <h2 className="text-2xl font-bold text-gray-900 mb-1">Ronak</h2>
                 <h2 className="text-2xl font-bold text-gray-900 mb-3">Jadav</h2>

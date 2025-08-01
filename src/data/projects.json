@@ -2,11 +2,11 @@
   {
     "id": 1,
     "title": "CREAT: Restaurant Reservation",
-    "logo": "/img/creat/customer/CE_Logo.png",
+    "logo": "/portfolio/img/creat/customer/CE_Logo.png",
     "description": "Our restaurant reservation app offers a seamless and user-friendly experience, allowing diners to easily book tables for breakfast, lunch, or dinner. With a few taps, users can discover and reserve their favorite restaurants, making dining out a breeze.",
     "companyName": "Freelance",
     "companySite": "https://creat.sg/",
-    "workLogo": "/img/capauth/freelance.png",
+    "workLogo": "/portfolio/img/capauth/freelance.png",
     "role": "Lead Full-stack Developer",
     "data": [
       {
@@ -45,55 +45,55 @@
     ],
     "images": [
       {
-        "src": "/img/creat/admin/CA1.png",
+        "src": "/portfolio/img/creat/admin/CA1.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA2.png",
+        "src": "/portfolio/img/creat/admin/CA2.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA3.png",
+        "src": "/portfolio/img/creat/admin/CA3.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA4.png",
+        "src": "/portfolio/img/creat/admin/CA4.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA5.png",
+        "src": "/portfolio/img/creat/admin/CA5.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA6.png",
+        "src": "/portfolio/img/creat/admin/CA6.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA7.png",
+        "src": "/portfolio/img/creat/admin/CA7.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA8.png",
+        "src": "/portfolio/img/creat/admin/CA8.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA9.png",
+        "src": "/portfolio/img/creat/admin/CA9.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/admin/CA10.png",
+        "src": "/portfolio/img/creat/admin/CA10.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/customer/CC1.png",
+        "src": "/portfolio/img/creat/customer/CC1.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/customer/CC2.png",
+        "src": "/portfolio/img/creat/customer/CC2.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/creat/customer/CCP3.png",
+        "src": "/portfolio/img/creat/customer/CCP3.png",
         "alt": "Description of image 3"
       }
     ],
@@ -103,11 +103,11 @@
   {
     "id": 2,
     "title": "ASME : Grow Your Bussiness Advertise With Asme",
-    "logo": "/img/asme/logo.png",
+    "logo": "/portfolio/img/asme/logo.png",
     "description": "The Association of Small & Medium Enterprises (ASME) is a non-profit organization in Singapore that supports the growth and development of SMEs. It provides resources, networking opportunities, training, and advocacy to help businesses thrive in the competitive market. ASME aims to promote entrepreneurship and strengthen the SME community through various initiatives and programs.",
     "companyName": "Freelance",
     "companySite": "https://www.asme.org.sg/",
-    "workLogo": "/img/capauth/freelance.png",
+    "workLogo": "/portfolio/img/capauth/freelance.png",
     "role": "Senior Full-stack Developer",
     "data": [
       {
@@ -152,31 +152,31 @@
     ],
     "images": [
       {
-        "src": "/img/asme/img0.png",
+        "src": "/portfolio/img/asme/img0.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img1.png",
+        "src": "/portfolio/img/asme/img1.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img2.png",
+        "src": "/portfolio/img/asme/img2.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img3.png",
+        "src": "/portfolio/img/asme/img3.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img4.png",
+        "src": "/portfolio/img/asme/img4.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img5.png",
+        "src": "/portfolio/img/asme/img5.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/asme/img6.png",
+        "src": "/portfolio/img/asme/img6.png",
         "alt": "Description of image 3"
       }
     ],
@@ -187,11 +187,11 @@
   {
     "id": 3,
     "title": "Lucky Minute : The One Minute Gaming App",
-    "logo": "/img/lucky-minute/Logo.svg",
+    "logo": "/portfolio/img/lucky-minute/Logo.svg",
     "description": "Join Lucky Minute, the exhilarating online gaming platform where you can dive into thrilling rounds of Baccarat, Roulette, and Sic Bo! After a quick verification, you'll be randomly placed in groups to enjoy fast-paced, one-minute gameplay. Discover if you’ve won or lost in just a minute!",
     "companyName": "Freelance",
     "companySite": "https://lucky-minute.com/",
-    "workLogo": "/img/capauth/freelance.png",
+    "workLogo": "/portfolio/img/capauth/freelance.png",
     "role": "Senior Front-end Developer",
     "data": [
       {
@@ -219,55 +219,55 @@
     ],
     "images": [
       {
-        "src": "/img/lucky-minute/img0.png",
+        "src": "/portfolio/img/lucky-minute/img0.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img10.png",
+        "src": "/portfolio/img/lucky-minute/img10.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img11.png",
+        "src": "/portfolio/img/lucky-minute/img11.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img12.png",
+        "src": "/portfolio/img/lucky-minute/img12.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img1.png",
+        "src": "/portfolio/img/lucky-minute/img1.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img8.png",
+        "src": "/portfolio/img/lucky-minute/img8.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img9.png",
+        "src": "/portfolio/img/lucky-minute/img9.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img7.png",
+        "src": "/portfolio/img/lucky-minute/img7.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img2.png",
+        "src": "/portfolio/img/lucky-minute/img2.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img3.png",
+        "src": "/portfolio/img/lucky-minute/img3.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img4.png",
+        "src": "/portfolio/img/lucky-minute/img4.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img5.png",
+        "src": "/portfolio/img/lucky-minute/img5.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/lucky-minute/img6.png",
+        "src": "/portfolio/img/lucky-minute/img6.png",
         "alt": "Description of image 3"
       }
     ],
@@ -278,11 +278,11 @@
   {
     "id": 4,
     "title": "NEEMIYA : Effective Lead Generation Platform",
-    "logo": "/img/neemiya/logo.png",
+    "logo": "/portfolio/img/neemiya/logo.png",
     "description": "Neemiya is a platform that helps businesses create and manage landing pages to capture leads effectively. It provides tools like drag-and-drop builders, analytics, and CRM integrations, making it easier to optimize marketing campaigns and track performance. The platform is suitable for agencies and businesses aiming to enhance their lead generation and streamline client management.",
     "companyName": "Freelance",
     "companySite": "https://neemiya.com/",
-    "workLogo": "/img/capauth/freelance.png",
+    "workLogo": "/portfolio/img/capauth/freelance.png",
     "role": "Senior Front-end Developer",
     "data": [
       {
@@ -334,27 +334,27 @@
     ],
     "images": [
       {
-        "src": "/img/neemiya/img1.png",
+        "src": "/portfolio/img/neemiya/img1.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/neemiya/img2.png",
+        "src": "/portfolio/img/neemiya/img2.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/neemiya/img3.png",
+        "src": "/portfolio/img/neemiya/img3.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/neemiya/img4.png",
+        "src": "/portfolio/img/neemiya/img4.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/neemiya/img5.png",
+        "src": "/portfolio/img/neemiya/img5.png",
         "alt": "Description of image 3"
       },
       {
-        "src": "/img/neemiya/img6.png",
+        "src": "/portfolio/img/neemiya/img6.png",
         "alt": "Description of image 3"
       }
     ],
