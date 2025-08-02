@@ -3,14 +3,14 @@ import React from "react";
 const ProjectsHeader = ({ project }) => {
   return (
     <>
-    <h3 class="job-title">{project.id}.&nbsp;{project.title}</h3>
+      <h3 class="job-title">{project.id}.&nbsp;{project.title}</h3>
       {/* <p class="company">Harvey</p> */}
       <div class="job-meta" style={{ marginLeft: "30px" }}>
         <span>
-        <a
+          <a
             rel="noreferrer"
             target="_blank"
-            href={`https://vickymoditech.github.io/#/projectDetail/${project.id}`}
+            href={`https://ronakjadav43.github.io/portfolio/#/projectDetail/${project.id}`}
           >
             Read More
           </a>

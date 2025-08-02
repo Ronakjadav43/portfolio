@@ -70,7 +70,7 @@ const Resume = () => {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://vickymoditech.github.io/#/projects"
+                href="https://ronakjadav43.github.io/portfolio/#/projects"
               >
                 See More Projects   <i class="fa-solid fa-angles-right"></i>
               </a>

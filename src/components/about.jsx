@@ -1,6 +1,6 @@
 import React from 'react';
 // You'll need to install these icons: npm install lucide-react
-import { Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
+import {  Twitter, Linkedin} from 'lucide-react';
 import "../App.css";
 import { useNavigate } from "react-router-dom";
 
@@ -76,13 +76,7 @@ function About() {
             <div className="bg-white rounded-lg shadow-lg text-center sm:w-[280px] md:w-[375px] absolute sm:bottom-[-180px] md:bottom-auto md:right-[-100px]">
               <div className="flex flex-col justify-center sm:px-4 sm:py-4 md:px-8 md:py-8  bg-[#f4ece6]">
                 <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] mx-auto mb-4 rounded-full overflow-hidden bg-gray-300">
-                  {/* <Image
-                  src="/placeholder.svg?height=128&width=128"
-                  alt="Ronak Jadav Profile"
-                  width={128}
-                  height={128}
-                  className="w-full h-full object-cover"
-                /> */}
+
                   <img src="/portfolio/img/profile.jpg" alt="Profile" width={200} height={200} />
                 </div>
                 <h2 className="text-2xl font-bold text-gray-900 mb-1">Ronak</h2>
@@ -122,18 +116,25 @@ function About() {
 
               {/* Social Links */}
               <div className="flex justify-center space-x-4 px-4 py-2">
-                <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
+                {/* <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
                   <Facebook size={20} />
+                </button> */}
+
+                <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
+                  <a
+                    href="https://www.linkedin.com/in/ronak-jadav-9b5413285/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Linkedin size={20} />
+                  </a>
                 </button>
                 <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
                   <Twitter size={20} />
                 </button>
-                <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
-                  <Linkedin size={20} />
-                </button>
-                <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
+                {/* <button className="p-2 text-gray-600 hover:text-blue-600 transition-colors">
                   <Instagram size={20} />
-                </button>
+                </button> */}
               </div>
             </div>
           </div>
@@ -158,24 +159,24 @@ function About() {
                 >
                   PROJECTS
                 </button> */}
-                 <button
-                    onClick={() => handleNavigation("/resume")}
-                    className="flex justify-center items-center bg-blue-600 text-white px-4 py-1 w-[110px] h-[35px] rounded-full font-bold hover:bg-blue-700 transition-colors text-[14px]"
-                  >
-                    RESUME
-                  </button>
-                  <button
-                    onClick={() => handleNavigation("/projects")}
-                    className="flex justify-center items-center border-2 border-black text-gray-700 px-4 py-1 w-[110px] h-[35px] rounded-full font-bold hover:border-black hover:text-gray-900 transition-colors text-[14px]"
-                  >
-                    PROJECTS
-                  </button>
+                <button
+                  onClick={() => handleNavigation("/resume")}
+                  className="flex justify-center items-center bg-blue-600 text-white px-4 py-1 w-[110px] h-[35px] rounded-full font-bold hover:bg-blue-700 transition-colors text-[14px]"
+                >
+                  RESUME
+                </button>
+                <button
+                  onClick={() => handleNavigation("/projects")}
+                  className="flex justify-center items-center border-2 border-black text-gray-700 px-4 py-1 w-[110px] h-[35px] rounded-full font-bold hover:border-black hover:text-gray-900 transition-colors text-[14px]"
+                >
+                  PROJECTS
+                </button>
               </div>
 
               {/* About Text */}
               <div className="space-y-4 text-gray-600 leading-relaxed ">
                 <p className='text-[19px]'>
-                  Hey! I'm a front-end developer with 6+ years of experience turning Figma designs into clean, responsive,
+                  Hey! I'm a front-end developer with 4+ years of experience turning Figma designs into clean, responsive,
                   and fast websites. I love working with React, Next.js, and Tailwind CSS to build smooth, user-friendly
                   interfaces that just work.
                 </p>
