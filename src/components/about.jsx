@@ -39,7 +39,7 @@ function About() {
         <div className="about" style={{ padding: "10px" }}>
           <h2>About me</h2>
           <p>
-            Hey! I’m a front-end developer with 6+ years of experience turning Figma designs into clean, responsive, and fast websites. I love working with React, Next.js, and Tailwind CSS to build smooth, user-friendly interfaces that just work. Whether it's a landing page, a full web app, or something in between — I focus on details, performance, and delivering exactly what you need, without the guesswork. Let’s build something awesome together!
+            Hey! I’m a Senior Software Developer with 6+ years of experience turning Figma designs into clean, responsive, and fast websites. I love working with React, Next.js, and Tailwind CSS to build smooth, user-friendly interfaces that just work. Whether it's a landing page, a full web app, or something in between — I focus on details, performance, and delivering exactly what you need, without the guesswork. Let’s build something awesome together!
           </p>
 
           <div className="button-group">
@@ -86,7 +86,7 @@ function About() {
 
 
 
-                <p className="sm:hidden md:flex justify-center text-gray-600 text-sm font-medium tracking-wider text-center">FRONT-END DEVELOPER</p>
+                <p className="sm:hidden md:flex justify-center text-gray-600 text-sm font-medium tracking-wider text-center">Senior Software Developer</p>
 
 
 
@@ -176,7 +176,7 @@ function About() {
               {/* About Text */}
               <div className="space-y-4 text-gray-600 leading-relaxed ">
                 <p className='text-[19px]'>
-                  Hey! I'm a front-end developer with 4+ years of experience turning Figma designs into clean, responsive,
+                  Hey! I'm a Senior Software Developer with 4+ years of experience turning Figma designs into clean, responsive,
                   and fast websites. I love working with React, Next.js, and Tailwind CSS to build smooth, user-friendly
                   interfaces that just work.
                 </p>

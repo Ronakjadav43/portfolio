@@ -6,7 +6,7 @@ const About = () => {
       <div class="headers">
         <div>
           <h1 class="name">Ronak Jadav</h1>
-          <p class="title">Senior Full Stack Developer</p>
+          <p class="title">Senior Software Developer</p>
         </div>
         <div class="contact-info">
           <div class="contact-item">
@@ -66,7 +66,7 @@ const About = () => {
               <i class="fa-solid fa-location-dot"></i>
             </span>
             <span>
-              166, Samarthya Serene society, Masma-Orma Road, Olpad Surat-394540 Gujarat India.
+              166, Samarthya Serene society, Masma-Orma Road, Olpad Surat-394540 Gujarat, India.
 
             </span>
           </div>
@@ -77,11 +77,11 @@ const About = () => {
           <i class="fa-solid fa-address-card"></i> &nbsp; About Me
         </h2>
         <p>
-          I'm a Front-End Developer with 4+ years of experience building pixel-perfect, high-performance web interfaces. I specialize in turning Figma designs into responsive UIs using React.js, Next.js, Tailwind CSS, and modern frameworks. My work spans from landing pages to full-scale SaaS apps, always focused on clean code, performance, and user experience.
+          I'm a Senior Software Developer with 4+ years of experience building pixel-perfect, high-performance web interfaces. I specialize in turning Figma designs into responsive UIs using React.js, Next.js, Tailwind CSS, and modern frameworks. My work spans from landing pages to full-scale SaaS apps, always focused on clean code, performance, and user experience.
           <br />
           Tech Skills: HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript, React, Next.js, Angular, Astro, Tailwind CSS, Bootstrap, Material UI, Git, WordPress, Webflow
           <br />
-          I deliver fast, SEO-friendly, mobile-first websites with smooth animations and cross-browser compatibility—ready for production and built to scale
+          I deliver fast, SEO-friendly, mobile-first websites with smooth animations and cross-browser compatibility—ready for production and built to scale.
         </p>
       </div>
     </Fragment>

@@ -66,15 +66,7 @@ const Resume = () => {
             <Project projects={[...projects.slice(0, 4)]} />
 
 
-            <div className="see-more">
-              <a
-                rel="noreferrer"
-                target="_blank"
-                href="https://ronakjadav43.github.io/portfolio/#/projects"
-              >
-                See More Projects   <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
+
 
           </div>
         </Page>

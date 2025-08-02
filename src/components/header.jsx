@@ -58,7 +58,7 @@ const Header = () => {
           <span className="flex items-center gap-3 font-semibold text-lg">
               <div className="w-3 h-3 bg-blue-600 rounded-sm"></div>
             Ronak Jadav</span>
-          <span className="text-gray-500 text-sm">/ FRONT-END DEVELOPER</span>
+          <span className="text-gray-500 text-sm">/ Senior Software Developer</span>
           </div>
         </div>
         <nav className="sm:hidden md:flex  space-x-8">
